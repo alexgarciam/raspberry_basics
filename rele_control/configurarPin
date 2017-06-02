@@ -1,0 +1,1 @@
+gpio -g mode 24 out
